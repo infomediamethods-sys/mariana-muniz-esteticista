@@ -1,0 +1,30 @@
+# Só o site vai para o repositório público. Tudo que é interno da agência fica fora.
+CLAUDE.md
+specs/
+revisao/
+revisao.md
+memoria.md
+informacoes-lead.md
+imagens.md
+plano-implementacao.md
+referencias/
+material-real-cliente/
+LIBERADO-PARA-INDEXAR
+componentes/
+.githooks/
+.claude/
+.DS_Store
+
+# Originais do Unsplash (grandes; só os WebP/JPG otimizados vão para o site)
+assets/img/_orig/
+# Marcador de aprovação do Armin (lido pelo publicador automático do Mac)
+APROVADO*
+VEREDITO-REFERENCIA*
+REPROVADO.md
+_src/
+copy.md
+copy-proposta.md
+ajustes-cliente.md
+fantasma.txt
+video.json
+__pycache__/
